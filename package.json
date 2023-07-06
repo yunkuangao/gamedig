@@ -1,0 +1,26 @@
+{
+  "name": "@yunkuangao/koishi-plugin-gamedig",
+  "description": "用于gamedig的查询",
+  "version": "1.0.6",
+  "author": "yun <yun@yka.moe>",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "AGPL-3.0",
+  "homepage": "https://github.com/yunkuangao/gamedig",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "dependencies": {
+    "gamedig": "^4.0.6"
+  },
+  "peerDependencies": {
+    "koishi": "^4.13.6"
+  }
+}
